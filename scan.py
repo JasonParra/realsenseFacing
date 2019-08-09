@@ -20,7 +20,7 @@ config.enable_stream(rs.stream.color, 640, 480, rs.format.bgr8, 30)
 # Start streaming
 pipeline.start(config)
 
-cascPath = "haarcascade_frontalface_default.xml"
+cascPath = "./src/haarcascade_frontalface_default.xml"
 faceCascade = cv2.CascadeClassifier(cascPath)
 
 try:
