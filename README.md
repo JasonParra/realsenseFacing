@@ -22,7 +22,7 @@ python3 scan.py
 
 ## Hardware
 
-Intelrealsense Depth Camera D415
+Intel realsense Depth Camera D415
 
 ## Authors
 
