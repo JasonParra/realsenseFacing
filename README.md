@@ -20,6 +20,10 @@ pip3 install -r requirements.txt
 python3 scan.py
 ```
 
+## Hardware
+
+Intelrealsense Depth Camera D415
+
 ## Authors
 
 * **Jason Parra** - *Initial work* - [jasonparra96](https://github.com/JasonParra)
