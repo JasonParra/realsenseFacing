@@ -3,7 +3,9 @@ Proyect Utilizing python, opencv and intel realsense camera to detect position (
 
 ### Prerequesites
 opencv          https://opencv.org/
+
 intelrealsense  https://software.intel.com/en-us/realsense/sdk 
+
 python3         https://www.python.org/downloads/
 
 ### Installing
