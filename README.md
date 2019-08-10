@@ -2,9 +2,9 @@
 Proyect Utilizing python, opencv and intel realsense camera to detect position (x,y,z) of the face using camera depth and color stream.
 
 ### Prerequesites
-opencv          https://opencv.org/
+OpenCV          https://opencv.org/
 
-intelrealsense  https://software.intel.com/en-us/realsense/sdk 
+Intel Realsense  https://software.intel.com/en-us/realsense/sdk 
 
 python3         https://www.python.org/downloads/
 
@@ -22,7 +22,7 @@ python3 scan.py
 
 ## Hardware
 
-Intel realsense Depth Camera D415
+Intel Realsense Depth Camera D415
 
 ## Authors
 
